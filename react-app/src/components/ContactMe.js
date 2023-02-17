@@ -3,9 +3,7 @@ import React from 'react';
 
 function ContactMe() {
     return (
-        <>
-        <p>contactMe</p>
-        </>
+        <p style={{ height: '1vh'}}>contactMe</p>
         )
     }
     
