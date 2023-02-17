@@ -1,0 +1,35 @@
+Create a header section
+create a content section (main)
+create a footer section
+
+add links to each page in the portfolio in the nav section of the header
+Add to nav
+    about me 
+    portfolio
+    contact
+    resume  
+    Highlight the title of the current section
+
+    About me main page
+        photo or avatar
+        and a short bio
+
+    portfolio in main page
+        links to 6 apps I have made
+
+    Contact me page
+        has fields for 
+            name
+            email address
+            message    
+        for this form, if the user moves their cursor out without entering info, it shows an error saying that this info is required   
+        use Regex to check for invalid email addresses     
+
+        footer has links to 
+            github 
+            linked in
+            also my stack overflow link (dont have one)
+
+
+
+
