@@ -1,0 +1,9 @@
+.main_container {
+    background-color: var(--main-bg-color);
+    min-height: 1vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,24 @@
+footer {
+    background-color: var(--main-bg-color);
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: space-between;
+    color:var(--main-txt-color)
+}
+
+footer nav {
+    width: auto;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-right: 10em;
+}
+
+footer nav p{
+    margin: 0.5em;
+}
+
+footer nav a:hover {
+    color: var(--main-txt-color-highlight);
+}

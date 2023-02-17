@@ -1,0 +1,29 @@
+
+.header {
+    background-color: var(--main-bg-color);
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    color:var(--main-txt-color)
+}
+
+.header h1 {
+    margin-left: 1em;
+}
+.header nav {
+    width: auto;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: flex-end;
+    justify-content: space-around;
+    margin-right: 1em;
+}
+
+.header nav a{
+    margin: .5em;
+}
+
+.header nav a:hover {
+    color: var(--main-txt-color-highlight);
+}
