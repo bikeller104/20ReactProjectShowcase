@@ -2,12 +2,12 @@ import React from 'react';
 import '../Styles/MainComponent.css';
 
 
-function ContactMe() {
+function Resume() {
     return (
         <main className='main_container'>
-            <p>contactMe</p>
+            <p>Resume</p>
         </main>
         )
     }
     
-    export default ContactMe;
+    export default Resume;

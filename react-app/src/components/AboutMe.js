@@ -2,12 +2,12 @@ import React from 'react';
 import '../Styles/MainComponent.css';
 
 
-function ContactMe() {
+function AboutMe() {
     return (
         <main className='main_container'>
-            <p>contactMe</p>
+            <p>AboutMe</p>
         </main>
         )
     }
     
-    export default ContactMe;
+    export default AboutMe;

@@ -6,7 +6,7 @@ import '../Styles/Home.css'
 
 export function Home() {
     return (
-        <div className='main_container'>
+        <div className='page_container'>
             <Header/>
                 <ContactMe/>
             <Footer/>

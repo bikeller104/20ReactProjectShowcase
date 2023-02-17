@@ -2,12 +2,12 @@ import React from 'react';
 import '../Styles/MainComponent.css';
 
 
-function ContactMe() {
+function Portfolio() {
     return (
         <main className='main_container'>
-            <p>contactMe</p>
+            <p>Portfolio</p>
         </main>
         )
     }
     
-    export default ContactMe;
+    export default Portfolio;

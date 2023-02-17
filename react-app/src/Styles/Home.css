@@ -1,4 +1,4 @@
-.main_container {
+.page_container {
     background-color: var(--main-bg-color);
     height: 100vh;
     display: flex;

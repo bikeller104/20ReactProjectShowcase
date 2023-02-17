@@ -1,0 +1,6 @@
+.main_container {
+    height: 75vh;
+    background-color: var(--accent-bg-color);
+    color: var(--main-txt-color);
+    font-size: 5em;
+}

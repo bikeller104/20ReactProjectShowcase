@@ -1,5 +1,6 @@
 :root {
-  --main-bg-color: rgb(1,1,95);
+  --main-bg-color: rgb(1, 1, 43);
+  --accent-bg-color: rgb(1, 1, 72);
   --main-txt-color: rgb(139,139,139);
   --main-txt-color-highlight: rgb(209, 206, 206);
 }
