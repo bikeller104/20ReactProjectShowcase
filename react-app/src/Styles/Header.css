@@ -24,6 +24,14 @@
     margin: .5em;
 }
 
-.header nav a:hover {
+.header nav .link {
+    color: var(--main-txt-color);
+}
+
+.header nav .selected {
+    color: var(--main-txt-color-highlight);
+}
+
+.header nav a .link:hover {
     color: var(--main-txt-color-highlight);
 }

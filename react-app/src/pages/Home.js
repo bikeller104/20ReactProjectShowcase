@@ -30,7 +30,7 @@ function decidePage(activePage)
 
 export function Home() {
 
-    const [activePage, setActivePage] = useState(AboutMe);
+    const [activePage, setActivePage] = useState(ABOUT_ME);
     
 
     
