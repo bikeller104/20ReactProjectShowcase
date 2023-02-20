@@ -2,5 +2,9 @@
     height: 75vh;
     background-color: var(--accent-bg-color);
     color: var(--main-txt-color);
-    font-size: 5em;
 }
+
+.content_bounds{
+    margin-left: 1em;
+}
+

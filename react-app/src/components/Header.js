@@ -22,16 +22,17 @@ function Header({ActivePage, setActivePage}) {
             <h1>Brent Keller</h1>
             <nav>
                 <a>
-                    <h2 onClick={activateAboutMe}>About Me</h2> </a>
+                    <h2 onClick={activateAboutMe}>About Me</h2> 
+                </a>
                 <a> 
-                    <h2 onClick={activatePortfolio}>Portfolio</h2> 
-                    </a>
+                    <h2 onClick={activatePortfolio}>Portfolio</h2>     
+                </a>
                 <a> 
                     <h2 onClick={activateContactMe}>Contact Me</h2>
                     </a>
                 <a>
                     <h2 onClick={activateResume}> Resume</h2>
-                    </a>
+                </a>
             </nav>
         </header>
     )

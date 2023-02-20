@@ -20,6 +20,10 @@ footer nav p{
     margin: 0.5em;
 }
 
+footer nav a {
+    color:var(--main-txt-color);
+}
+
 footer nav a:hover {
     color: var(--main-txt-color-highlight);
 }
