@@ -2,6 +2,8 @@
     height: 75vh;
     background-color: var(--accent-bg-color);
     color: var(--main-txt-color);
+    overflow-x:hidden; 
+    overflow-y:auto;
 }
 
 .content_bounds{

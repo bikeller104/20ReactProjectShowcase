@@ -1,5 +1,9 @@
 
-main img {
-    float: left;
-    padding: 20px;
+.main_container img {
+    margin: 2%;
+    float:left;
+}
+
+.main_containercd p{
+    float: right;
 }
