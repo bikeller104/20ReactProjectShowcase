@@ -8,16 +8,16 @@ function ProjectPane({imgSource, projectTitle, projectLink}) {
     return (
         <div className='pane'>
             {/*
-        */}
             
         <p>{imgSource }</p>
         <p>{projectTitle}</p>
         <p>{projectLink}</p>
+        */}
 
             
-            <section>
-
             <img src = {imgSource} className="pane" />
+            
+
             
 
             <div>
@@ -26,7 +26,7 @@ function ProjectPane({imgSource, projectTitle, projectLink}) {
                     <img src={githubIcon}></img>
                 </a>
             </div>
-            </section>
+           
                 
 
         {/*
