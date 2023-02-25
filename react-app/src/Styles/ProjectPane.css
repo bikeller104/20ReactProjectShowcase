@@ -2,6 +2,10 @@
 
 .pane{
     position: relative;
+    display: flex;
+    flex-flow: row wrap;
+    flex-basis:automatic;
+    
 }
 
 .pane img {
