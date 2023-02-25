@@ -1,0 +1,18 @@
+.pane img {
+    width: 200px;
+    height: 200px;
+    object-fit:cover;
+    
+}
+
+.pane div {
+    display: flex;
+    flex-flow: row nowrap;
+    position: absolute;
+    
+}
+
+.project-link img {
+    width:50%;
+    height: 50%;
+}

@@ -1,18 +1,18 @@
-Create a header section
+Create a header section Done
 create a content section (main)
-create a footer section
+create a footer section (done)
 
 add links to each page in the portfolio in the nav section of the header
 Add to nav
-    about me 
+    about me Done
     portfolio
-    contact
+    contact 
     resume  
-    Highlight the title of the current section
+    Highlight the title of the current section Done
 
     About me main page
-        photo or avatar
-        and a short bio
+        photo or avatar Done
+        and a short bio (placeholder) done
 
     portfolio in main page
         links to 6 apps I have made
