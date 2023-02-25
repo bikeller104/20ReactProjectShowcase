@@ -8,11 +8,11 @@ function ProjectPane({imgSource, projectTitle, projectLink}) {
     return (
         <div className='pane'>
             {/*
+        */}
             
         <p>{imgSource }</p>
         <p>{projectTitle}</p>
         <p>{projectLink}</p>
-            */}
 
             
             <section>
