@@ -4,7 +4,6 @@
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Visuals](#visuals)
 - [Installation Instructions](#installation-instructions)
 - [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
