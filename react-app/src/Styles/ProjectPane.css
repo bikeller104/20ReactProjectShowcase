@@ -1,0 +1,30 @@
+
+
+.pane{
+    position: relative;
+}
+
+.pane img {
+    width: 200px;
+    height: 200px;
+    object-fit:cover;
+    
+}
+
+.pane div {
+    position:relative;
+}
+
+.pane div {
+    display: flex;
+    flex-flow: row nowrap;
+    position: absolute;
+    
+}
+
+.project-link img {
+    width:75%;
+    height:75%;
+    object-fit:contain;
+    top: 10%
+}
